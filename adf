@@ -1,0 +1,47 @@
+[33mcommit 30a523246401dd44b3389d68fac304a84c85b9b1[m
+Reflog: HEAD@{0} (candelopez <candelopezcarlos@gmail.com>)
+Reflog message: commit: se adiciona etiqueta h1 a index.html
+Author: candelopez <candelopezcarlos@gmail.com>
+Date:   Wed May 9 07:16:31 2018 -0500
+
+    se adiciona etiqueta h1 a index.html
+
+[33mcommit 76d3d87a7c87e214255d739d3616104681483fd9[m
+Reflog: HEAD@{1} (candelopez <candelopezcarlos@gmail.com>)
+Reflog message: commit: adiciona Bazz
+Author: candelopez <candelopezcarlos@gmail.com>
+Date:   Tue May 8 19:24:15 2018 -0500
+
+    adiciona Bazz
+
+[33mcommit a6ba3e9e2d52e1ef4d866e095950107f934a9c41[m
+Reflog: HEAD@{2} (candelopez <candelopezcarlos@gmail.com>)
+Reflog message: commit: Adiciona contenido a index.html
+Author: candelopez <candelopezcarlos@gmail.com>
+Date:   Tue May 8 19:21:41 2018 -0500
+
+    Adiciona contenido a index.html
+
+[33mcommit e03bca7f59e67d05e757da0eba79409daa80ec2b[m
+Reflog: HEAD@{3} (candelopez <candelopezcarlos@gmail.com>)
+Reflog message: commit: Adiciona bar.txt
+Author: candelopez <candelopezcarlos@gmail.com>
+Date:   Tue May 8 19:14:57 2018 -0500
+
+    Adiciona bar.txt
+
+[33mcommit e67411f955b8253ddfafbb73dd38403728046224[m
+Reflog: HEAD@{4} (candelopez <candelopezcarlos@gmail.com>)
+Reflog message: commit: Archivo foo.txt adicionado
+Author: candelopez <candelopezcarlos@gmail.com>
+Date:   Tue May 8 19:13:58 2018 -0500
+
+    Archivo foo.txt adicionado
+
+[33mcommit 990dfa10e6e495308d172f2e2af80c6ca98a43b1[m
+Reflog: HEAD@{5} (candelopez <candelopezcarlos@gmail.com>)
+Reflog message: commit (initial): inicia repositorio
+Author: candelopez <candelopezcarlos@gmail.com>
+Date:   Tue May 8 19:06:52 2018 -0500
+
+    inicia repositorio
